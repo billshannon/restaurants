@@ -13,5 +13,5 @@ var Comment = React.createClass({
         <div>Rank: {this.props.rank}</div>
       </div>
     );
-  }
+  } 
 });
